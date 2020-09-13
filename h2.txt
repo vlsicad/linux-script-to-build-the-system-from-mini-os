@@ -1,0 +1,2 @@
+    1  apt install ubuntu-minimal
+    2  history >h2.txt

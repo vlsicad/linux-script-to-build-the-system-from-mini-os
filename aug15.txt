@@ -1,0 +1,1011 @@
+  991  sudo chroot $HOME/nos/chroot
+  992  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  993  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nosq/image
+  994  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+  995  virtualbox
+  996  sudo chroot $HOME/nos/chroot
+  997  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  998  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+  999  virtualbox
+ 1000  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1001  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1002  virtualbox
+ 1003  teamviewer 
+ 1004  sudo pcmanfm 
+ 1005  sudo chroot $HOME/nos/chroot
+ 1006  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1007  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nosqt.iso     $HOME/nos/image
+ 1008  virtualbox
+ 1009  history > hist1.txt 
+ 1010  sudo chroot $HOME/nos/chroot
+ 1011  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1012  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nosqt1.iso     $HOME/nos/image
+ 1013  teamviewer 
+ 1014  sudo pcmanfm 
+ 1015  exit
+ 1016  sudo chroot $HOME/nos/chroot
+ 1017  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1018  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nosqt1.iso     $HOME/nos/image
+ 1019  virtualbox
+ 1020  sudo chroot $HOME/nos/chroot
+ 1021  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1022  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nosqt1.iso     $HOME/nos/image
+ 1023  sudo chroot $HOME/nos/chroot
+ 1024  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1025  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nosqt1.iso     $HOME/nos/image
+ 1026  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1027  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nosqt1.iso     $HOME/nos/image
+ 1028  virtualbox
+ 1029  sudo pcmanfm 
+ 1030  xfce4-power-manager
+ 1031  xfce4-power-manager-settings 
+ 1032  sudo chroot $HOME/nos/chroot
+ 1033  (cd $HOME/nos &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+ 1034  (cd $HOME/nos/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+ 1035  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1036  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/noslx.iso     $HOME/nos/image
+ 1037  virtualbox 
+ 1038  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1039  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/noslx.iso     $HOME/nos/image
+ 1040  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1041  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/noslx.iso     $HOME/nos/image
+ 1042  virtualbox 
+ 1043  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1044  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/noslx.iso     $HOME/nos/image
+ 1045  virtualbox 
+ 1046  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1047  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/noslx.iso     $HOME/nos/image
+ 1048  teamviewer 
+ 1049  sudo chroot $HOME/nos/chroot
+ 1050  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1051  sudo chroot $HOME/nos/chroot
+ 1052  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1053  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/noslx.iso     $HOME/nos/image
+ 1054  virtualbox 
+ 1055  sudo chroot $HOME/nos/chroot
+ 1056  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1057  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/noslx.iso     $HOME/nos/image
+ 1058  virtualbox 
+ 1059  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1060  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/noslx.iso     $HOME/nos/image
+ 1061  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1062  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/noslx.iso     $HOME/nos/image
+ 1063  apt install ./usb-imagewriter_0.1.3-0ubuntu5_all.deb m
+ 1064  sudo apt install ./usb-imagewriter_0.1.3-0ubuntu5_all.deb m
+ 1065  sudo apt install usb-imagewriter
+ 1066  sudo apt-get install usb-imagewriter
+ 1067  sudo add-apt-repository ppa:gezakovacs/ppa
+ 1068  sudo apt-get update
+ 1069  sudo apt-get install unetbootin
+ 1070  virtualbox 
+ 1071  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1072  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/noslx.iso     $HOME/nos/image
+ 1073  virtualbox 
+ 1074  sudo pcmanfm 
+ 1075  locate preferences.py
+ 1076  pavucontrol
+ 1077  amixer --help
+ 1078  pavucontrol 
+ 1079  pacmd list-sinks | grep -e "name:" -e "index:" -e "base volume:"
+ 1080  locate default.pa
+ 1081  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1082  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/noslx.iso     $HOME/nos/image
+ 1083  virtualbox 
+ 1084  volti
+ 1085  sudo pcmanfm 
+ 1086  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1087  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/noslx.iso     $HOME/nos/image
+ 1088  xilink 
+ 1089  sudo pcmanfm 
+ 1090  xilinx
+ 1091  xilink 
+ 1092  apt install adobe-flashplugin
+ 1093  sudo apt install adobe-flashplugin
+ 1094  nano /etc/apt/sources.list
+ 1095  sudo nano /etc/apt/sources.list
+ 1096  sudo apt update
+ 1097  sudo apt install adobe-flashplugin
+ 1098  sudo pcmanfm 
+ 1099  sudo ./build_minimal_linux_live.sh 
+ 1100  virtualbox 
+ 1101  teamviewer 
+ 1102  sudo apt install casper
+ 1103  mkdir /tmp/livecd
+ 1104  sudo mount -o loop ~/Documents/mini.iso /tmp/livecd 
+ 1105  mkdir ~/livecd 
+ 1106  mkdir ~/livecd/cd 
+ 1107  rsync --exclude=/casper/filesystem.squashfs -a /tmp/livecd/ ~/livecd/cd 
+ 1108  mkdir ~/livecd/squashfs 
+ 1109  mkdir ~/livecd/custom 
+ 1110  sudo modprobe squashfs 
+ 1111  sudo mount -t squashfs -o loop /tmp/livecd/casper/filesystem.squashfs ~/livecd/squashfs/ 
+ 1112  rsync --exclude=/casper/filesystem.squashfs -a /tmp/livecd/ ~/livecd/cd 
+ 1113  sudo mount -t squashfs -o loop /tmp/livecd/casper/filesystem.squashfs ~/livecd/squashfs/ 
+ 1114  sudo modprobe squashfs 
+ 1115  rsync --exclude=/casper/filesystem.squashfs -a /tmp/livecd/ ~/livecd/cd extract-cd 
+ 1116  sudo pcmanfm 
+ 1117  sudo chroot $HOME/nos/chroot
+ 1118  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1119  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/noslx.iso     $HOME/nos/image
+ 1120  mkdir ./fromlaptopdsk
+ 1121  vlsiscr.sh 
+ 1122  virtualbox 
+ 1123  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1124  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/noslx.iso     $HOME/nos/image
+ 1125  virtualbox 
+ 1126  https://www.youtube.com/watch?v=FErUfholr9s
+ 1127  matlab
+ 1128  vlsi15
+ 1129  vlsiscr.sh 
+ 1130  matlab
+ 1131  vlsiscr.sh 
+ 1132  sudo pcmanfm 
+ 1133  uname
+ 1134  uname -a
+ 1135  sudo apt-cache search linux-image
+ 1136  uname -a
+ 1137  mkdir -p $HOME/nosub
+ 1138  sudo debootstrap     --arch=i386     --variant=buildd     xenial $HOME/nosub/chroot    http://archive.ubuntu.com/ubuntu/
+ 1139  sudo chroot $HOME/nosub/chroot
+ 1140  mkdir -p $HOME/nosub/image/{live,isolinux}
+ 1141  (cd $HOME/nosub &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1142  sudo chroot $HOME/nosub/chroot
+ 1143  (cd $HOME/nosub &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1144  (cd $HOME/nosub &&     cp chroot/boot/vmlinuz-4.4.0-21-generic image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.4.0-21-generic image/live/initrd1; )
+ 1145  cp $HOME/isolinux.cfg $HOME/nosub/image/isolinux/isolinux.cfg
+ 1146  (cd $HOME/nos/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+ 1147  (cd $HOME/nosub/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+ 1148  (cd $HOME/nosub &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1149  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nosub.iso     $HOME/nosub/image
+ 1150  virtualbox 
+ 1151  sudo chroot $HOME/nosub/chroot
+ 1152  (cd $HOME/nosub &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1153  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nosub.iso     $HOME/nosub/image
+ 1154  virtualbox 
+ 1155  (cd $HOME/nosub &&     cp chroot/boot/vmlinuz-4.4.0-21-generic image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.4.0-21-generic image/live/initrd1; )
+ 1156  (cd $HOME/nosub &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1157  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nosub.iso     $HOME/nosub/image
+ 1158  virtualbox 
+ 1159  rc-gui
+ 1160  rc -gui
+ 1161  rc-gui
+ 1162  rc -gui
+ 1163  sudo apt-get install kolor
+ 1164  sudo apt-get install paint
+ 1165  sudo apt install ./kolourpaint-4-8-2-es-en-ubu.deb 
+ 1166  sudo apt install--no-install-recommends --yes --force-yes ./kolourpaint-4-8-2-es-en-ubu.deb 
+ 1167  sudo apt install --no-install-recommends --yes --force-yes ./kolourpaint-4-8-2-es-en-ubu.deb 
+ 1168  sudo apt-get install pinta 
+ 1169  sudo apt-get install gnome-paint
+ 1170  sudo apt-get install djvulibre
+ 1171  sudo apt-get install djvu
+ 1172  sudo apt-get install djview
+ 1173  vlsiscr.sh 
+ 1174  sudo cp ./sys_setup.sh /usr/bin/
+ 1175  history
+ 1176  locate sys_setup.sh
+ 1177  history > t.txt
+ 1178  sys_setup.sh 
+ 1179  mkdir /usr/synopsys/code_temp
+ 1180  sys_setup.sh 
+ 1181  cd ./code/
+ 1182  ls
+ 1183  rc -gui
+ 1184  updcs11 
+ 1185  dc_gui 
+ 1186  ifconfig 
+ 1187  dndcs11 
+ 1188  updnagpc 
+ 1189  dc_gui 
+ 1190  ads
+ 1191  rc -gui
+ 1192  vlsiscr.sh 
+ 1193  rc -gui
+ 1194  sudo apt-get install unoconv
+ 1195  history 
+ 1196  vlsiscr.sh 
+ 1197  fbpanel 
+ 1198  lxpanel
+ 1199  history
+ 1200  sudo apt-get remove lxpanel
+ 1201  sudo apt-get install lxpanel
+ 1202  history
+ 1203  rc -gui
+ 1204  history
+ 1205  sys_setup.sh 
+ 1206  vlsiscr.sh 
+ 1207  ./build 
+ 1208  ./build system
+ 1209  cd ..
+ 1210  ./util/build system
+ 1211  util/build system
+ 1212  util/build linux
+ 1213  cd ./New/
+ 1214  tar xzpf spice3f4.tar.gz
+ 1215  tar xzpf spice3f4tar.gz
+ 1216  patch < spice3f4.newlnx.patch
+ 1217  ./util/build linux
+ 1218  s/util/build linux
+ 1219  ./util/build linux
+ 1220  cd ./spice3f4/
+ 1221  ./util/build linux
+ 1222  ./util/build install linux
+ 1223  ./util/build linux gcc
+ 1224  ./util/build linux
+ 1225  tar xzpf spice3f4.kit.tar.gz
+ 1226  tar xzpf sp3f4.kit.tar.gz
+ 1227  tar xzpf sp3f4.patch.tar.gz 
+ 1228  rpm2cpio SRPMS/spice-3f4-2.src.rpm | cpio -i
+ 1229  rpm2cpio spice-3f5-15mdv2010.0.x86_64.rpm | cpio -i
+ 1230  patch < spice3f4.newlnx.patch
+ 1231  ./util/build linux
+ 1232  patch < spice3f4.newlnx.patch
+ 1233  patch < spice3f4.dirs.patch 
+ 1234  patch < spice3f4.newlnx.patch
+ 1235  patch < spice3f4.dirs.patch 
+ 1236  ./util/build linux
+ 1237  cd ..
+ 1238  patch -p1 -E < spice3f4.defaults.patch
+ 1239  patch -p1 < spice3f4.3f5.patch
+ 1240  patch -p1 < spice3f4.fixes.patch
+ 1241  patch -p1 < spice3f4.newlnx.patch
+ 1242  patch -p1 < spice3f4.xlibs.patch
+ 1243  patch -p1 < spice3f4.glibc.patch
+ 1244  patch -p1 < spice3f4.dirs.patch
+ 1245  patch -p1 < spice3f4.rdln.patch
+ 1246  rm -f `find -name "*.orig"`
+ 1247  cd ./spice3f4/
+ 1248  ./util/build linux
+ 1249  ./util/build install linux
+ 1250  ./util/build linux
+ 1251  patch -p1 -E < spice3f4.defaults.patch
+ 1252  patch -p1 < spice3f4.3f5.patch
+ 1253  patch -p1 < spice3f4.fixes.patch
+ 1254  patch -p1 < spice3f4.newlnx.patch
+ 1255  patch -p1 < spice3f4.xlibs.patch
+ 1256  patch -p1 < spice3f4.glibc.patch
+ 1257  patch -p1 < spice3f4.dirs.patch
+ 1258  patch -p1 < spice3f4.rdln.patch
+ 1259  rm -f `find -name "*.orig"`
+ 1260  ./util/build linux
+ 1261  ./util/build install linux
+ 1262  ./util/build linux
+ 1263  patch -p1 < spice3f4.rdln.patch
+ 1264  y
+ 1265  ./util/build linux
+ 1266  spice3
+ 1267  ./spice3.o
+ 1268  spice3.o
+ 1269  ./util/build linux gcc
+ 1270  ./util/build linux gccinstall
+ 1271  ./util/build linux gcc install
+ 1272  ./util/build install linux gcc
+ 1273  ./util/build install linux
+ 1274  ./util/build install
+ 1275  util/build linux
+ 1276  util/build linux install
+ 1277  patch < spice3f4.newlnx.patch 
+ 1278  patch -p1 -E < spice3f4.defaults.patch
+ 1279  util/build linux
+ 1280  strip /usr/bin/{spice3,help,nutmeg,sconvert,multidec,        proc2mod}
+ 1281  patch -p1 -E < spice3f4.xlibs.patch 
+ 1282  patch -p1 -E < spice3f4.newlnx.patch 
+ 1283  ./util/build linux
+ 1284  locate spiceIn 
+ 1285  spice3 
+ 1286  ./util/build linux gcc
+ 1287  history 
+ 1288  cd New3/
+ 1289  tar xzvf ahkab-0.18.tar.gz 
+ 1290  cd ahkab-0.18/
+ 1291  python setup.py install
+ 1292  sudo python setup.py install
+ 1293  sudo aptitude install python python-numpy python-scipy
+ 1294  sudo apt install python python-numpy python-scipy
+ 1295  pip install ahkab
+ 1296  sudo apt install python-pip
+ 1297  ahkab diode_op.ckt 
+ 1298  ahkab rectifier-ref.tran 
+ 1299  ahkab rectifier-ref.op 
+ 1300  ahkab rectifier-ref.py
+ 1301  ahkab 
+ 1302  ahkab amckt.ckt 
+ 1303  ahkab ring3mosq.ckt 
+ 1304  ahkab rout_mos.cir 
+ 1305  sudo apt install python-matplotlib
+ 1306  ahkab rout_mos.cir 
+ 1307  ahkab colpitts.ckt 
+ 1308  sudo apt install python-matplotlib
+ 1309  sudo apt install nose
+ 1310  pip install nose 
+ 1311  ahkab colpitts.ckt 
+ 1312  ahkab t2.ckt 
+ 1313  ahkab sffmckt.ckt 
+ 1314  ahkab tran_ie.ckt 
+ 1315  python ahkab -o t.dat tran_ie.ckt 
+ 1316  ahkab -o t.dat rout_mos.cir 
+ 1317  ahkab -o t.dat colpitts.ckt 
+ 1318  tar -zxvf ngspice-27.tar.gz 
+ 1319  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1320  cd ./ngspice-27/
+ 1321  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1322  mke
+ 1323  make
+ 1324  sudo apt install bison
+ 1325  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1326  sudo apt install flex
+ 1327  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1328  sudo apt install autoconf, automake
+ 1329  sudo apt install autoconf automake
+ 1330  sudo apt install libtool, texinfo
+ 1331  sudo apt install libtool texinfo
+ 1332  sudo apt install readline editline tcl/tk blt
+ 1333  sudo apt install readline editline  blt
+ 1334  sudo apt install X11
+ 1335  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1336  sudo apt install  libxaw-dev 
+ 1337  sudo apt install libxaw-dev
+ 1338  sudo apt install x11-devel
+ 1339  sudo apt install libxa
+ 1340  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1341  make
+ 1342  sudo apt install readline
+ 1343  sudo apt install libreadline6-dev
+ 1344  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1345  make
+ 1346  sudo make install
+ 1347  ngspice 
+ 1348  ngspice adder_mos.cir 
+ 1349  ngspice -b -r raw.dat  adder_mos.cir 
+ 1350  ngspice -b adder_mos.cir 
+ 1351  ngspice adder_mos.cir 
+ 1352  ngspice -b adder_mos.cir 
+ 1353  ngspice -r t.dat adder_mos.cir 
+ 1354  ngspice -b -r raw.dat  adder_mos.cir 
+ 1355  cd ..
+ 1356  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1357  make
+ 1358  sudo make install
+ 1359  cd ./examples/
+ 1360  ngspice -r t.dat adder_mos.cir 
+ 1361  cd ./various/
+ 1362  ngspice -r t.dat adder_mos.cir 
+ 1363  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1364  make
+ 1365  sudo make install
+ 1366  cd ./examples/
+ 1367  cd ./various/
+ 1368  ngspice -r t.dat adder_mos.cir 
+ 1369  ngspice -b -r raw.dat  adder_mos.cir 
+ 1370  ngspice -r t.dat ro_17_4.cir 
+ 1371  cd ..
+ 1372  cd tests/
+ 1373  ls
+ 1374  cd bsim1
+ 1375  ngspice -r t.dat test.cir 
+ 1376  cd ..
+ 1377  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1378  make
+ 1379  sudo make install
+ 1380  ngspice -r ./t.dat rc_test1.cir 
+ 1381  ngspice -b -r ./t.dat rc_test1.cir 
+ 1382  ngspice -r ./t.dat rc_test1.cir 
+ 1383  ngspice -r ./t.dat adder_mos.cir 
+ 1384  ngspice -b -r ./t.dat adder_mos.cir 
+ 1385  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1386  cd ..
+ 1387  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1388  make
+ 1389  sudo make install
+ 1390  ngspice -r ./t.dat rc_test1.cir 
+ 1391  history
+ 1392  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1393  cd ..
+ 1394  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1395  make
+ 1396  sudo make install
+ 1397  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1398  make
+ 1399  ngspice -r ./t.dat rc_test1.cir 
+ 1400  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1401  cd ..
+ 1402  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1403  make
+ 1404  sudo make install
+ 1405  ngspice -r ./t.dat rc_test1.cir 
+ 1406  cls
+ 1407  clr
+ 1408  clear
+ 1409  ngspice -r ./t.dat rc_test1.cir 
+ 1410  ngspice -o ./t.dat rc_test1.cir 
+ 1411  ngspice -r ./t.dat rc_test1.cir 
+ 1412  ngspice -o ./t.dat rc_test1.cir 
+ 1413  matlab
+ 1414  sudo apt install gnuplot
+ 1415  ngspice -r ./t.dat rc_test1.cir 
+ 1416  gnuplot
+ 1417  gnuplot t.dat 
+ 1418  sudo apt install gwave
+ 1419  cd examples/
+ 1420  cd Monte_Carlo/
+ 1421  ls
+ 1422  ngspice -r ./t.dat MC_ring.sp 
+ 1423  cd ..
+ 1424  cd various/
+ 1425  ngspice -r ./t.dat adder_mos.cir 
+ 1426  ngspice -r ./t.dat opramp1.cir 
+ 1427  ngspice -r t.dat opramp1.cir 
+ 1428  ngspice -o t.dat opramp1.cir 
+ 1429  ngspice -o t1t.dat opramp1.cir 
+ 1430  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1431  cd ..
+ 1432  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1433  make
+ 1434  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1435  make
+ 1436  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1437  make
+ 1438  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1439  make
+ 1440  sudo make install
+ 1441  ngspice -o t.dat opramp1.cir 
+ 1442  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1443  sudo make install
+ 1444  ngspice -o t.dat opramp1.cir 
+ 1445  ngspice -o t.dat rc_test1.cir 
+ 1446  ngspice -o t.dat rc_test2.cir 
+ 1447  ngspice  rc_test2.cir 
+ 1448  ngspice -o t.dat rc_test1.cir 
+ 1449  ngspice -o t.dat rc_test2.cir 
+ 1450  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1451  sudo make install
+ 1452  ngspice -o t.dat rc_test2.cir 
+ 1453  ngspice ro_17_4.cir 
+ 1454  ngspice adder_mos.cir 
+ 1455  ngspice -o tt.txt adder_mos.cir 
+ 1456  ngspice  rc_test2.cir 
+ 1457  ngspice -o tt.txt  rc_test2.cir 
+ 1458  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1459  sudo make install
+ 1460  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1461  sudo make install
+ 1462  ngspice -o tt.txt  rc_test2.cir 
+ 1463  ngspice  rc_test2.cir 
+ 1464  ./configure --enable-xspice --disable-debug --with-readline=yes
+ 1465  sudo make install
+ 1466  ngspice  rc_test2.cir 
+ 1467  ngspice  rc_test1.cir 
+ 1468  ../configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1469  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1470  make 2>&1 | tee make.log
+ 1471  sudo make install
+ 1472  ngspice  rc_test1.cir 
+ 1473  ngspice -o tt.txt  rc_test2.cir 
+ 1474  ngspice -r tt.txt rc_test1.cir 
+ 1475  ngspice -r tt.txt ro_17_4.cir 
+ 1476  ngspice -r tt.txt opramp1.cir 
+ 1477  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1478  make 2>&1 | tee make.log
+ 1479  tar -zxvf ngspice-27.tar.gz
+ 1480  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1481  make 2>&1 | tee make.log
+ 1482  sudo make install
+ 1483  ngspice -r tt.txt opramp1.cir 
+ 1484  ngspice -r tt.txt rc_test1.cir 
+ 1485  ngspice -r tt.txt rc_test2.cir 
+ 1486  vlsiscr.sh 
+ 1487  wine cspice.exe -o adder81.dat adder81.cir 
+ 1488  wine vsvars32.bat
+ 1489  wine msc51.bat
+ 1490  vlsiscr.sh 
+ 1491  ps2pdf12
+ 1492  history 
+ 1493  ./asd1.sh 
+ 1494  ps2pdf -gui
+ 1495  zenity --file-selection --directory
+ 1496  ps2pdf-gui
+ 1497  ps2pdf14
+ 1498  pstopdf
+ 1499  ./asd1.sh 
+ 1500  zenity 
+ 1501  zenity --help
+ 1502  zenity ./asd1.sh 
+ 1503  ./asd1.sh 
+ 1504  sudo ./asd1.sh 
+ 1505  for x in *.ps; do echo $x;ps2pdf $x ${x/%ps/pdf}; done
+ 1506  ./asd1.sh 
+ 1507  zenity
+ 1508  zenity ./asd1.sh 
+ 1509  zenity ./asd.sh 
+ 1510  zenity --file-selection --title "PS2PDF GUI" --directory
+ 1511  glib-compile-schemas /usr/share/glib-2.0/schemas/
+ 1512  sudo glib-compile-schemas /usr/share/glib-2.0/schemas/
+ 1513  vlsiscr.sh 
+ 1514  history
+ 1515  /home/vlsi/asd1.sh 
+ 1516  vlsiscr.sh 
+ 1517  kazam 
+ 1518  sudo apt-get install gir1.2-gtk3.0
+ 1519  sudo apt install gir1.2-gtk3.0
+ 1520  sudo apt install gir1.0-gtk3.0
+ 1521  sudo apt install libgtk
+ 1522  sudo apt install libgtk3.0
+ 1523  kazam 
+ 1524  sudo apt install python-distutils-extra
+ 1525  kazam 
+ 1526  sudo apt-get install gir1.2-gtk-3.0
+ 1527  sudo kazam 
+ 1528  kazam 
+ 1529  vlsiscr.sh 
+ 1530  ads
+ 1531  vlsiscr.sh 
+ 1532  cd /Cadence/CMOSedu/all_netlist/
+ 1533  ngspice cnv_final_fsm1.sp 
+ 1534  history 
+ 1535  time ./cross-compile.sh 64
+ 1536  make distclean
+ 1537  time ./cross-compile.sh 64
+ 1538  time ./cross-compile.sh
+ 1539  ngspice cnv_final_fsm2.sp 
+ 1540  ngspice -c inv5.cir 
+ 1541  ngspice -a inv5.cir 
+ 1542  ngspice -o inv5.cir 
+ 1543  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+ 1544  ngspice -o inv5.txt inv5.cir 
+ 1545  ngspice -o inv5.txt inv5.cir exit
+ 1546  ngspice -o inv5.txt inv5.cir
+ 1547  ngspice  inv5.txt inv5.cir
+ 1548  ngspice -r inv5.txt -c  inv5.cir
+ 1549  ngspice -c inv5.cir
+ 1550  ngspice -c ./inv5.cir
+ 1551  ngspice  ./inv5.cir
+ 1552  ngspice inv5.cir -o inv5.txt  
+ 1553  ngspice inv5.cir -r inv5.txt  
+ 1554  ngspice  ./inv5.cir
+ 1555  ngspice inv5.cir -r inv5.txt  
+ 1556  ngspice -c ./inv5.cir
+ 1557  ngspice  ./inv5.cir
+ 1558  ngspice inv5.cir -r inv5.txt  
+ 1559  ngspice -c ./inv5.cir
+ 1560  ngspice inv5.cir 
+ 1561  ngspice cnv_final_fsm2.sp
+ 1562  ngspice inv5.cir 
+ 1563  ngspice amux1.cir 
+ 1564  history 
+ 1565  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1566  history 
+ 1567  sudo make install
+ 1568  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1569  sudo make install
+ 1570  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1571  sudo make install
+ 1572  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1573  sudo make install
+ 1574  util/build system
+ 1575  util/build gcc
+ 1576  util/build system
+ 1577  util/build gcc
+ 1578  util/build 
+ 1579  util/build system
+ 1580  util/build gcc
+ 1581  util/build msdos
+ 1582  util/build <system> gcc
+ 1583  util/build msdos gcc
+ 1584  util/build <system> gcc
+ 1585  util/build 
+ 1586  util/build mips gcc
+ 1587  util/build gcc
+ 1588  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1589  ngspice inv5.cir 
+ 1590  ngspice cnv_final_fsm2.sp 
+ 1591  ngspice cnv_final_fsm2.sp exit
+ 1592  ngspice cnv_final_fsm2.sp
+ 1593  ngspice < cnv_final_fsm2.sp
+ 1594  ngspice < inv5.cir 
+ 1595  ngspice < inv5.cir -o log.txt  
+ 1596  sudo make install
+ 1597  ngspice < inv5.cir -o log.txt  
+ 1598  ngspice < cnv_final_fsm2.sp -o log.txt  
+ 1599  ngspice < inv5.cir -o log.txt  
+ 1600  ngspice < cnv_final_fsm2.sp -o log.txt  
+ 1601  ngspice < cnv_final_fsm2.sp
+ 1602  ngspice  cnv_final_fsm2.sp
+ 1603  ngspice < cnv_final_fsm2.sp
+ 1604  wine plottofig.exe 
+ 1605  matlab
+ 1606  wine plottofig.exe 
+ 1607  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1608  sudo make install
+ 1609  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1610  sudo make install
+ 1611  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1612  sudo make install
+ 1613  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1614  sudo make install
+ 1615  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1616  sudo make install
+ 1617  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1618  sudo make install
+ 1619  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1620  sudo make install
+ 1621  wine plottofig.exe 
+ 1622  matlab
+ 1623  time ./cross-compile.sh
+ 1624  make distclean
+ 1625  time ./cross-compile.sh
+ 1626  history
+ 1627  sudo atp install mingw-64
+ 1628  sudo  install mingw-64
+ 1629  sudo apt install mingw-64
+ 1630  sudo apt install mingw
+ 1631  sudo apt install mingw-w64
+ 1632  time ./cross-compile.sh
+ 1633  time ./cross-compile.sh 64
+ 1634  sudo atp install libtool
+ 1635  sudo apt install libtool
+ 1636  sudo apt install bison
+ 1637  sudo apt install flex
+ 1638  time ./cross-compile.sh 64 > log.txt
+ 1639  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1640  sudo make install
+ 1641  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1642  sudo make install
+ 1643  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1644  sudo make install
+ 1645  ngspice < inv5.cir 
+ 1646  ngspice < inv5.cir
+ 1647  ngspice < inv5.cir -o inv5.txt
+ 1648  ngspice < inv6.cir -o inv5.txt
+ 1649  sudo make uninstall
+ 1650  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1651  sudo make install
+ 1652  ngspice < inv5.cir
+ 1653  ngspice < inv6.cir
+ 1654  ngspice < inv6.cir -o inv5.txt
+ 1655  ngspice < inv6.cir
+ 1656  ngspice  inv6.cir
+ 1657  ngspice < inv6.cir -o inv5.txt
+ 1658  ngspice  inv6.cir
+ 1659  ngspice cnv_final_fsm2.sp 
+ 1660  ngspice cnv_final_fsm2.sp -o cnv_final_fsm2.txt
+ 1661  ngspice < cnv_final_fsm2.sp -o cnv_final_fsm2.txt
+ 1662  ngspice cnv_final_fsm2.sp
+ 1663  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1664  sudo make install
+ 1665  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1666  sudo make install
+ 1667  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1668  sudo make install
+ 1669  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1670  sudo make install
+ 1671  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1672  sudo make install
+ 1673  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1674  sudo make install
+ 1675  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1676  sudo make install
+ 1677  time ./cross-compile.sh 64 > log.txt
+ 1678  make distclean
+ 1679  time ./cross-compile.sh 64 > log.txt
+ 1680  make distclean
+ 1681  time ./cross-compile.sh > log.txt
+ 1682  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1683  sudo make install
+ 1684  time ./cross-compile.sh > log.txt
+ 1685  make distclean
+ 1686  time ./cross-compile.sh > log.txt
+ 1687  ngspice < cnv_final_fsm2.sp
+ 1688  make distclean
+ 1689  time ./cross-compile.sh > log.txt
+ 1690  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1691  sudo make install
+ 1692  time ./cross-compile.sh > log.txt
+ 1693  make distclean
+ 1694  time ./cross-compile.sh > log.txt
+ 1695  make distclean
+ 1696  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1697  sudo make install
+ 1698  time ./cross-compile.sh > log.txt
+ 1699  make distclean
+ 1700  time ./cross-compile.sh > log.txt
+ 1701  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1702  sudo make install
+ 1703  time ./cross-compile.sh > log.txt
+ 1704  make distclean
+ 1705  time ./cross-compile.sh > log.txt
+ 1706  wine ./ngspice.exe ./cnv_final_fsm2.sp 
+ 1707  wine ./ngspice.exe ./cnv_final_fsm2.sp -o ./log.txt
+ 1708  ngspice cnv_final_fsm2.sp 
+ 1709  ngspice < cnv_final_fsm2.sp
+ 1710  wine ./ngspice.exe < ./cnv_final_fsm2.sp 
+ 1711  wine ./ngspice.exe < ./cnv_final_fsm2.sp -o log.txt
+ 1712  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1713  sudo make install
+ 1714  time ./cross-compile.sh > log.txt
+ 1715  make distclean
+ 1716  time ./cross-compile.sh > log.txt
+ 1717  make distclean
+ 1718  time ./cross-compile.sh > log.txt
+ 1719  wine ./ngspice.exe < ./cnv_final_fsm2.sp 
+ 1720  wine ./ngspice.exe  ./cnv_final_fsm2.sp 
+ 1721  wine ./ngspice.exe  ./cnv_final_fsm2.sp -o ./log.txt
+ 1722  cd ..
+ 1723  time ./cross-compile.sh > log.txt
+ 1724  ngspice cnv_final_fsm2.sp 
+ 1725  ngspice < cnv_final_fsm2.sp 
+ 1726  ngspice cnv_final_fsm2.sp 
+ 1727  ngspice amux1.cir 
+ 1728  ngspice inv6.cir 
+ 1729  ngspice cnv_final_fsm2.sp 
+ 1730  ngspice cnvfinalfsm2.sp 
+ 1731  sudo make install
+ 1732  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp --with-wingui
+ 1733  ./configure --with-x --enable-xspice --disable-debug --enable-cider  --enable-openmp
+ 1734  sudo make install
+ 1735  time ./cross-compile.sh > log.txt
+ 1736  make distclean
+ 1737  time ./cross-compile.sh > log.txt
+ 1738  ./compile_min.sh 
+ 1739  make distclean
+ 1740  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp\
+ 1741  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1742  sudo make install
+ 1743  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1744  sudo make install
+ 1745  ngspice amux5.cir 
+ 1746  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1747  sudo make install
+ 1748  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1749  sudo make install
+ 1750  ngspice amux5.cir 
+ 1751  ngspice < amux5.cir 
+ 1752  ngspice < cnvfinalfsm2.sp 
+ 1753  ngspice  cnvfinalfsm2.sp 
+ 1754  time ./cross-compile.sh > log.txt
+ 1755  make distclean
+ 1756  time ./cross-compile.sh > log.txt
+ 1757  time ./cross-compile.sh 
+ 1758  ngspice  cnvfinalfsm2.sp 
+ 1759  ngspice  cnvfinalfsm2.sp -o log.txt
+ 1760  ngspice  cnvfinalfsm2.sp 
+ 1761  ngspice < cnvfinalfsm2.sp 
+ 1762  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1763  sudo make install
+ 1764  ngspice < cnvfinalfsm2.sp 
+ 1765  ngspice  cnvfinalfsm2.sp 
+ 1766  ngspice  cnvfinalfsm2.sp -o log.txt
+ 1767  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1768  sudo make install
+ 1769  ngspice  cnvfinalfsm2.sp -o log.txt
+ 1770  ngspice < cnvfinalfsm2.sp
+ 1771  ngspice
+ 1772  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1773  sudo make install
+ 1774  ngspice
+ 1775  ngspice < cnvfinalfsm2.sp
+ 1776  ngspice  cnvfinalfsm2.sp -o log.txt
+ 1777  time ./cross-compile.sh
+ 1778  history
+ 1779  tar -zxvf ngspice-27.tar.gz1 
+ 1780  history
+ 1781  tar -zxvf ngspice-27.tar.gz
+ 1782  time ./cross-compile.sh
+ 1783  3
+ 1784  time ./cross-compile.sh
+ 1785  make distclean
+ 1786  time ./cross-compile.sh
+ 1787  ngspice cnvfinalfsm2.sp 
+ 1788  ngspice < cnvfinalfsm2.sp 
+ 1789  ngspice < cnvfinalfsm2.sp > log.txt
+ 1790  ngspice < inv6.cir > log1.txt
+ 1791  ngspice < inv6.cir 
+ 1792  ngspice  inv6.cir 
+ 1793  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1794  sudo make install
+ 1795  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1796  sudo make install
+ 1797  time ./cross-compile.sh
+ 1798  make diskclean
+ 1799  time ./cross-compile.sh
+ 1800  make distclean
+ 1801  time ./cross-compile.sh
+ 1802  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1803  sudo make install
+ 1804  ngspice  < inv6.cir 
+ 1805  ngspice  < cnvfinalfsm2.sp 
+ 1806  ngspice   cnvfinalfsm2.sp 
+ 1807  ngspice cnvfinalfsm2.sp 
+ 1808  ngspice   cnvfinalfsm2.sp 
+ 1809  ngspice  < cnvfinalfsm2.sp 
+ 1810  ngspice  < cnvfinalfsm2.sp > log.txt
+ 1811  ngspice  < cnvfinalfsm2.sp 
+ 1812  ngspice  cnvfinalfsm2.sp 
+ 1813  ngspice  < cnvfinalfsm2.sp 
+ 1814  ngspice  cnvfinalfsm2.sp 
+ 1815  ngspice  < cnvfinalfsm2.sp 
+ 1816  ngspice  cnvfinalfsm2.sp 
+ 1817  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1818  sudo make install
+ 1819  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1820  sudo make install
+ 1821  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1822  sudo make install
+ 1823  ngspice   cnvfinalfsm2.sp 
+ 1824  ngspice cnvfinalfsm2.sp 
+ 1825  wine ./ngspice.exe  ./cnv_final_fsm2.sp -o ./log.txt
+ 1826  time ./cross-compile.sh
+ 1827  make distclean
+ 1828  time ./cross-compile.sh
+ 1829  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1830  sudo make install
+ 1831  ngspice cnvfinalfsm2.sp 
+ 1832  ngspice < cnvfinalfsm2.sp 
+ 1833  time ./cross-compile.sh
+ 1834  make distclean
+ 1835  time ./cross-compile.sh
+ 1836  ./configure --with-x --enable-xspice --disable-debug --enable-cider --with-readline=yes --enable-openmp
+ 1837  sudo make install
+ 1838  ngspice < cnvfinalfsm2.sp 
+ 1839  ngspice cnvfinalfsm2.sp 
+ 1840  time ./cross-compile.sh
+ 1841  make distclean
+ 1842  time ./cross-compile.sh
+ 1843  wine ./ngspice.exe  ./cnv_final_fsm2.sp
+ 1844  time ./cross-compile.sh
+ 1845  cd ..
+ 1846  time ./cross-compile.sh
+ 1847  time ./cross-compile.sh 64
+ 1848  time ./cross-compile.sh
+ 1849  history
+ 1850  export CC="arm-linux-gnueabi-gcc"
+ 1851  ./configure --host=arm-linux-gnueabi
+ 1852  apt get arm-linux-gnueabi
+ 1853  vlsiscr.sh 
+ 1854  sudo apt install ./teamviewer_13.0.6634_i386.deb 
+ 1855  teamviewer 
+ 1856  teamviewer
+ 1857  sudo install ./teamviewer_13.0.6634_i386.deb 
+ 1858  sudo apt install ./teamviewer_13.0.6634_i386.deb 
+ 1859  teamviewer > log.t
+ 1860  sudo apt autoremove ./teamviewer_13.0.6634_i386.deb 
+ 1861  sudo apt install ./teamviewer_13.0.6634_i386.deb 
+ 1862  teamviewer 
+ 1863  cd /home/vlsi/Downloads/
+ 1864  sudo dpkg -i ./teamviewer_13.0.6634_i386.deb 
+ 1865  teamviewer 
+ 1866  cd /
+ 1867  ls
+ 1868  sudo rm -rf /home/vlsi/.local/share/teamviewer*
+ 1869  sudo rm -rf /home/vlsi/.config/teamviewer*
+ 1870  sudo rm -rf /opt/teamviewer/
+ 1871  cd /home/vlsi/Downloads/
+ 1872  sudo dpkg -i ./teamviewer_13.0.6634_i386.deb 
+ 1873  teamviewer 
+ 1874  teamviewer &
+ 1875  sudo apt-get install -f -y
+ 1876  teamviewer &
+ 1877  apt-get purge teamviwer
+ 1878  sudo apt-get purge teamviwer
+ 1879  sudo apt-get purge teamviewer 
+ 1880  locate -e teamviwer
+ 1881  sudo dpkg -i ./teamviewer_13.0.6634_i386.deb 
+ 1882  teamviewer &
+ 1883  wget download.teamviwer.com/download/teamviwer_i386.deb
+ 1884  sudo dpkg -i teamviewer_13.0.6634_i386.deb 
+ 1885  sudo apt-get install -f -y
+ 1886  teamviewer &
+ 1887  teamviewer 
+ 1888  sudo teamviewer 
+ 1889  teamviewer 
+ 1890  sudo apt-get purge teamviwer
+ 1891  sudo apt-get purge teamviewer 
+ 1892  sudo rm -rf /opt/teamviewer/
+ 1893  sudo rm -rf /home/vlsi/.config/teamviewer*
+ 1894  sudo rm -rf /home/vlsi/.local/share/teamviewer*
+ 1895  sudo dpkg -i teamviewer_12.0.90041_i386.deb 
+ 1896  teamviewer &
+ 1897  vlsiscr.sh 
+ 1898  matlab
+ 1899  vlsiscr.sh 
+ 1900  sys_setup.sh 
+ 1901  rc -gui
+ 1902  vlsiscr.sh 
+ 1903  cd /home/vlsi/projects_digital/testfsm1/WORK
+ 1904  encounter 
+ 1905  encoa 
+ 1906  clear
+ 1907  encounter 
+ 1908  encounter 
+ 1909  encoa 
+ 1910  encounter 
+ 1911  vlsiscr.sh 
+ 1912  history
+ 1913  ps2pdf-gui
+ 1914  zenity --file-selection --title "PS2PDF GUI" --directory
+ 1915  cd /home/vlsi/projects_digital/adp_cmos/print_data/New/pipe_data
+ 1916  ls
+ 1917  for x in *.ps; do echo $x;ps2pdf $x ${x/%ps/pdf}; done
+ 1918  zenity ./asd1.sh 
+ 1919  zenity ./asd.sh 
+ 1920  histroy
+ 1921  history
+ 1922  vlsiscr.sh 
+ 1923  history
+ 1924  make distclean
+ 1925  ./configure --with-x --enable-xspice --disable-debug --enable-cider  --enable-openmp
+ 1926  sudo make install
+ 1927  time ./cross-compile.sh > log32.txt
+ 1928  make distclean
+ 1929  time ./cross-compile.sh > log32.txt
+ 1930  ngspice cnvfinalfsm2.sp
+ 1931  ./configure --with-x --enable-xspice --disable-debug --enable-cider  --enable-openmp     
+ 1932  sudo make install
+ 1933  make distclean
+ 1934  ./configure --with-x --enable-xspice --disable-debug --enable-cider  --enable-openmp      
+ 1935  sudo make install
+ 1936  history
+ 1937  ngspice cnvfinalfsm2.sp
+ 1938  make distclean
+ 1939  ./configure --with-x --enable-xspice --disable-debug --enable-cider  --enable-openmp      --enable-predictor --enable-capbypass
+ 1940  sudo make install
+ 1941  ngspice cnvfinalfsm2.sp
+ 1942  make distclean
+ 1943  ./configure --with-x --enable-xspice --enable-cider  --enable-openmp  --enable-predictor --enable-capbypass
+ 1944  make distclean
+ 1945  ./configure --with-x --enable-xspice --enable-cider 
+ 1946  sudo make install
+ 1947  ngspice cnvfinalfsm2.sp
+ 1948  make distclean
+ 1949  ./configure --with-x --enable-xspice --enable-debug --enable-cider  --disable-openmp      
+ 1950  sudo make install
+ 1951  ngspice cnvfinalfsm2.sp
+ 1952  time ./cross-compile.sh > log32.txt
+ 1953  make distclean
+ 1954  time ./cross-compile.sh > log32.txt
+ 1955  make distclean
+ 1956  time ./cross-compile.sh > log32.txt
+ 1957  ls
+ 1958  history
+ 1959  rc -gui
+ 1960  history
+ 1961  sys_setup.sh 
+ 1962  history
+ 1963  updnagpc 
+ 1964  dc_gui 
+ 1965  nclaunch 
+ 1966  nclaunch ./aa.run
+ 1967  nclaunch -input ./aa.run
+ 1968  nclaunch -input ./aa.tcl
+ 1969  nclaunch ./aa.run
+ 1970  nclaunch -input ./aa.tcl
+ 1971  ncsim
+ 1972  simvision
+ 1973  simvision filename.dump 
+ 1974  simvision
+ 1975  simvision filename.dump 
+ 1976  simvision filename.dump -waves
+ 1977  nclaunch -input ./aa.tcl
+ 1978  simvision filename.dump -waves
+ 1979  nclaunch -input ./aa.tcl
+ 1980  wine ngspice.exe inv6.cir 
+ 1981  history 
+ 1982  wine ngspice.exe inv6.cir > log.txt
+ 1983  wine ngspice.exe -o log.txt  inv6.cir 
+ 1984  history 
+ 1985  sudo pcmanfm 
+ 1986  format
+ 1987  mformat
+ 1988  man mformat
+ 1989  history
+ 1990  history > aug15.txt
+
+
+regarding bear chips RK3399 buying
+
+Respected sir,
+we are looking for bear chips RK3399 for our custom design boards.
+will it possible for you to provide the services for the same.
+thank you
+
+ref:- rock-chip.com
+reply as contact to our agents 

@@ -1,0 +1,1000 @@
+  203  shutdown now
+  204  pcmanfm
+  205  anydesk 
+  206  firefox 
+  207  reboot
+  208  startx
+  209  volti
+  210  sudo xserver-xorg-video-intel
+  211  sudo apt install  xserver-xorg-video-intel
+  212  sudo nano /etc/default/grub 
+  213  sudo update-grub
+  214  reboot
+  215  teamviewer 
+  216  startx
+  217  shutdown now
+  218  startx
+  219  sudo nano /etc/default/grub 
+  220  sudo update-grub
+  221  reboot
+  222  shutdown now
+  223  startx
+  224  . .bashrc 
+  225  dv_gui 
+  226  icc_gui 
+  227  pt_gui 
+  228  updcs11 
+  229  sudo apt install ia32-lib
+  230  sudo apt install lsb-core
+  231  sudo apt install ia32-libs
+  232  updcs11 
+  233  dndcs11 
+  234  ifconfig 
+  235  sudo pcmanfm 
+  236  dv_gui 
+  237  sudo nano /etc/redhat-release
+  238  dv_gui 
+  239  updcs11 
+  240  dndcs11 
+  241  wine --version
+  242  wine ./sedit.exe 
+  243  wine ./mikroC Pro PIC.exe
+  244  sudo apt install  xserver-xorg-video-intel
+  245  pcmanfm 
+  246  shutdown now
+  247  reboot
+  248  sudo apt-get install viewnior
+  249  pcmanfm 
+  250  sudo apt-get install gwenview
+  251  sudo apt-get install Kazam
+  252  sudo add-apt-repository ppa:kazam-team/unstable-series
+  253  sudo apt-get update
+  254  sudo apt-get install kazam python3-cairo python3-xlib
+  255  kazam 
+  256  nitrogen 
+  257  pcmanfm 
+  258  sudo apt-get install gnome-clocks
+  259  gnome-clocks 
+  260  gnome-open 
+  261  pcmanfm 
+  262  sudo pcmanfm 
+  263  date +%R
+  264  date +%I
+  265  date --set +%I
+  266  date --help 
+  267  gsettings set com.canonical.indicator.datetime time-format 12-hour
+  268  pcmanfm 
+  269  logout 
+  270  exit
+  271  pkill tint2 
+  272  fbpanel 
+  273  tint2
+  274  fbpanel 
+  275  sudo apt install  lxpanel
+  276  lxpanel
+  277  exit
+  278  lxpanel
+  279  exit
+  280  sudo apt install openbox-menu 
+  281  openbox-menu 
+  282  obmenu 
+  283  shutdown now
+  284  firefox 
+  285  startx
+  286  lxpanel
+  287  wine ./avhdl.exe 
+  288  wine ./lmtools.exe 
+  289  wine ./avhdl1.exe 
+  290  winecfg 
+  291  reboot
+  292  startx
+  293  vlsi15 
+  294  shutdown now
+  295  nitrogen 
+  296  startx
+  297  shutdown now
+  298  lxde-logout
+  299  systemctl poweroff
+  300  startx
+  301  obmenu 
+  302  history 
+  303  obmenu 
+  304  x-www-browser
+  305  logout 
+  306  exit
+  307  logout 
+  308  volti
+  309  startx
+  310  lxtask 
+  311  vlsi15 
+  312  LNGA
+  313  LANG
+  314  vlsi15 
+  315  history 
+  316  sudo dpkg -i ./webilder_0.7.3-1_all.deb 
+  317  sudo apt-get install python-gtk2 python-glade2 python-pillow python-setuptools
+  318  pavucontrol
+  319  locale -a
+  320  sudo dpkg -i ./google-chrome-42-0-2311-90-32-bit-multi-ubu.deb 
+  321  sudo apt install google-chrome-stable
+  322  google-chrome-stable 
+  323  sudo apt-get install samba
+  324  sudo apt-get-f install 
+  325  sudo apt-get -f install 
+  326  sudo apt install samba
+  327  sudo apt-get -f install 
+  328  sudo apt install samba
+  329  kazam 
+  330  lxtask 
+  331  leafpad ./menu.xml 
+  332  ark
+  333  sudo apt install ark
+  334  sudo apt-get -f  install ark
+  335  sudo apt-get -f  install 
+  336  sudo apt install ark
+  337  ark
+  338  startx 
+  339  sudo dpkg -i remove./google-chrome-42-0-2311-90-32-bit-multi-ubu.deb 
+  340  cd ./Downloads/
+  341  sudo dpkg -i remove./google-chrome-42-0-2311-90-32-bit-multi-ubu.deb 
+  342  ls
+  343  sudo dpkg -i remove./google-chrome-42-0-2311-90-32-bit-multi-ubu.deb 
+  344  startx
+  345  ark
+  346  tar -cf ft_fp1.tar ./ft_fp1 
+  347  sudo dpkg -i install ./rar-4-2-0-en-ubu.deb 
+  348  history > hist.txt
+  349  ls
+  350  leafpad hist.txt 
+  351  exit
+  352  startx
+  353  sudo nano /etc/issue
+  354  uname -a
+  355  reboot
+  356  sudo pcmanfm 
+  357  sudo nano .bashrc 
+  358  startx
+  359  pcmanfm 
+  360  nitrogen 
+  361  histroy
+  362  history 
+  363  docky
+  364  clc
+  365  clear
+  366  uname -a
+  367  leafpad 
+  368  vlsi15 
+  369  cd ~
+  370  matlab 
+  371  ./matlab 
+  372  matlab 
+  373  locate libc.so.6
+  374  . .bashrc 
+  375  exit
+  376  sudo pcmanfm 
+  377  matlab 
+  378  sudo pcmanfm 
+  379  kazam 
+  380  volti
+  381  clear
+  382  startx
+  383  sudo systemctl enable getty@tty1.service
+  384  sudo nano ~/.bash_profile
+  385  sudo nano /etc/systemd/system/getty@tty1.service.d/autologin.conf
+  386  reboot
+  387  startx
+  388  sudo nano /etc/systemd/system/getty@tty1.service.d/autologin.conf
+  389  reboot
+  390  sudo pcmanfm 
+  391  startx
+  392  sudo pcmanfm 
+  393  startx
+  394  sudo nano /etc/fstab 
+  395  reboot
+  396  sudo nano /etc/fstab 
+  397  exit
+  398  sudo pcmanfm 
+  399  sudo apt update grub
+  400  sudo  update grub
+  401  history
+  402  sudo update-grub
+  403  reboot
+  404  startx
+  405  sudo pcmanfm 
+  406  sudo nano /etc/systemd/system/getty@tty1.service.d/autologin.conf
+  407  reboot
+  408  cvt 1366 768  60
+  409  xrandr --newmode "1368x768_60.00"   85.25  1368 1440 1576 1784  768 771 781 798 -hsync +vsync
+  410  sudo xrandr --addmode VGA1 "1366x768_60.00"
+  411  xrandr -q
+  412  xrandr -s 1366x768
+  413  cvt 1366 768 60
+  414  xrandr --newmode "1368x768_60.00"   85.25  1368 1440 1576 1784  768 771 781 798 -hsync +vsync
+  415  xrandr -q
+  416  cvt 1024 768  60
+  417  xrandr --newmode "1024x768_60.00"   63.50  1024 1072 1176 1328  768 771 775 798 -hsync +vsync
+  418  xrandr -q
+  419  xrandr -s 1024x768
+  420  xrandr -q
+  421  xrandr -s 1024x768_60.00
+  422  teamviewer 
+  423  sudo nano /etc/default/grub
+  424  sudo update-grub
+  425  reboot
+  426  sudo nano /etc/default/grub
+  427  reboot
+  428  xrandr -q
+  429  . .bashrc 
+  430  ./quartus
+  431  quartus10
+  432  quartus14
+  433  cd ~
+  434  . .bashrc 
+  435  quartus10
+  436  sudo service ssh status
+  437  xrandr -q
+  438  cvt 1280 1024 60
+  439  xrandr --newmode "1280x1024_60.00"  109.00  1280 1368 1496 1712  1024 1027 1034 1063 -hsync +vsync
+  440  xrandr -q
+  441  xrandr -s 1280x1024
+  442  sudo xrandr --addmode VGA1 "1280x1024_60.00"
+  443  xrandr -q
+  444  xrandr -s 1280x1024
+  445  history
+  446  sudo nano /etc/default/grub
+  447  history
+  448  sudo visudo
+  449  exit
+  450  ./scr.sh
+  451  xrandr -q
+  452  cvt 1366 768 60
+  453  ./setup 
+  454  csh ./setup 
+  455  sh ./setup 
+  456  ksh ./setup 
+  457  ksh ./setup --help
+  458  ksh ./setup --gui
+  459  ./10.0sp1_quartus_free_linux1.sh 
+  460  ./QuartusSetupWeb-14.0.0.200-linux.run 
+  461  sh ./QuartusSetupWeb-14.0.0.200-linux.run 
+  462  ksh ./QuartusSetupWeb-14.0.0.200-linux.run 
+  463  csh ./QuartusSetupWeb-14.0.0.200-linux.run 
+  464  ./QuartusSetupWeb-14.0.0.200-linux.run 
+  465  sch ./QuartusSetupWeb-14.0.0.200-linux.run 
+  466  sudo apt install scheme2c
+  467  sch ./QuartusSetupWeb-14.0.0.200-linux.run 
+  468  kch ./QuartusSetupWeb-14.0.0.200-linux.run 
+  469  sudo apt install tsch
+  470  sudo apt install tcsh
+  471  kch ./QuartusSetupWeb-14.0.0.200-linux.run 
+  472  bash ./QuartusSetupWeb-14.0.0.200-linux.run 
+  473  tcsh ./QuartusSetupWeb-14.0.0.200-linux.run 
+  474  ./10.0sp1_quartus_free_linux1.sh 
+  475  sudo dpkg-reconfigure dash
+  476  tcsh ./QuartusSetupWeb-14.0.0.200-linux.run 
+  477  ./quartus
+  478  teamviewer 
+  479  quartus14
+  480  sudo quartus14
+  481  sudo su
+  482  ./quartus
+  483  cd ~
+  484  quartus10 
+  485  sudo locale-gen "en_US.UTF-8"
+  486  sudo dpkg-reconfigure locales
+  487  . .bashrc 
+  488  quartus10
+  489  . .bashrc 
+  490  sudo pcmanfm 
+  491  wine ./Setup.exe 
+  492  matlab 
+  493  xilink 
+  494  vlsi15 
+  495  teamviwer &
+  496  teamviwer 
+  497  matlab
+  498  export LC_ALL=C
+  499  matlab
+  500  sudo pcmanfm 
+  501  ./matlab 
+  502  sudo pcmanfm 
+  503  matlab 
+  504  mat12
+  505  sudo dpkg-reconfigure locales
+  506  export LC_ALL=C.
+  507  export LC_ALL=C
+  508  matlab 
+  509  ./matlab 
+  510  sudo apt-get install matlab-support
+  511  ./matlab 
+  512  matlab
+  513  sudo chown vlsi -R ~/.matlab
+  514  matlab
+  515  chsh -s /bin/bash
+  516  matlab
+  517  . .bashrc 
+  518  matlab
+  519  . .bashrc 
+  520  matlab
+  521  mat12
+  522  mtlb12 
+  523  cd /Matlab/matlab2012/bin/
+  524  ./matlab 
+  525  bash ./matlab 
+  526  sudo pcmanfm 
+  527  chsh -s /bin/bash vlsi
+  528  bash ./matlab 
+  529  sudo ./matlab 
+  530  mtlb12 
+  531  vlsi15 
+  532  matlab -nodesktop
+  533  mtlb12 
+  534  matlab -nojvm
+  535  matlab -nodisplay
+  536  chmod -R 755 /Matlab/matlab2012/
+  537  mtlb12 
+  538  which matlab
+  539  sudo apt-get install xterm
+  540  xterm
+  541  . .bashrc 
+  542  mtlb12 
+  543  matlab
+  544  . .bashrc 
+  545  matlab
+  546  ./matlab 
+  547  bash ./matlab 
+  548  . .bashrc 
+  549  bash ./MATLAB 
+  550  ./matlab 
+  551  ./MATLAB 
+  552  ./matlab 
+  553  bash ./matlab 
+  554  matlab -nodisplay
+  555  matlab -nojvm
+  556  bash matlab -nojvm
+  557  ./activate_matlab.sh 
+  558  ./matlab 
+  559  ./mbuildopts.sh 
+  560  ./mbuild
+  561  ./optsetup.sh 
+  562  cd ./glnx86/
+  563  ls
+  564  ./MATLAB 
+  565  java --version
+  566  udo apt install penjdk-9-jre-headless
+  567  sudo apt install openjdk-9-jre-headless
+  568  sudo apt install default-jdk
+  569  sudo apt install default-jre
+  570  java --version
+  571  java -version
+  572  ./MATLAB 
+  573  mtlb12 
+  574  matlab
+  575  bash matlab
+  576  cd ~
+  577  bash matlab
+  578  matlabroot
+  579  bash matlab
+  580  . .bashrc 
+  581  matlabroot
+  582  matlab
+  583  MATLABROOT
+  584  $MATLABROOT
+  585  mtlb12 
+  586  export DISPLAY=unix:0 
+  587  matlab
+  588  matlab -nojvm
+  589  ksh matlab
+  590  cd /Matlab/matlab2012/bin/glnx86/
+  591  ./
+  592  ./MATLAB 
+  593  ./MATLAB desktop
+  594  locate libjvm.so
+  595  sh matlab
+  596  csh matlab
+  597  ksh matlab
+  598  quartus10
+  599  matlab -glnx86
+  600  sudo matlab -desktop
+  601  sudo chown -R vlsi:root ~.matlab
+  602  cd ~
+  603  sudo chown -R vlsi:root .matlab
+  604  matlab -glnx86
+  605  history 
+  606  mtlb12 
+  607  matlab -glnx86
+  608  mtlb12 
+  609  sudo chown -R vlsi:root ~.matlab
+  610  ksh matlab
+  611  $\ matlab
+  612  $ matlab
+  613  sudo matlab
+  614  sudo chown -R vlsi /home/vlsi/.matlab
+  615  sudo matlab
+  616  sudo chown -R vlsi /home/vlsi/.matlab
+  617  ksh matlab
+  618  ksh matlab -n
+  619  ksh matlab -e
+  620  matlab -desktop -nosplash &
+  621  sudo chown -R ${vlsi}:${vlsi} ~/.matlab
+  622  matlab -desktop -nosplash &
+  623  matlab -desktopas 
+  624  sudo chown -R ${USER}:${USER} ~/.matlab
+  625  matlab -desktopas 
+  626  ksh matlab
+  627  mtlb12 
+  628  wine ./Setup.exe 
+  629  wine /home/vlsi/.wine/drive_c/Program\ Files/WinRAR/WinRAR.exe 
+  630  mtlb12 
+  631  quartus10
+  632  sudo dpkg -i ./TonidoSetup_i686.deb 
+  633  tonido
+  634  ./tonido.sh 
+  635  ./tonido.sh start
+  636  ./tonidostart.sh 
+  637  /usr/local/tonido/tonidostart.sh
+  638  ./vlsiscr.sh 
+  639  vlsi15 
+  640  cd ~
+  641  ./vlsiscr.sh 
+  642  gnome-terminal -x vlsi15
+  643  x-terminal
+  644  x-terminal-emulator
+  645  x-terminal-emulator -e /home/vlsi/vlsiscr.sh
+  646  x-terminal-emulator -x /home/vlsi/vlsiscr.sh
+  647  x-terminal-emulator -x sh /home/vlsi/vlsiscr.sh
+  648  /home/vlsi/vlsiscr.sh
+  649  vlsi15 
+  650  /home/vlsi/vlsiscr.sh
+  651  cp /home/vlsi/vlsiscr.sh /usr/bin/
+  652  sudo cp /home/vlsi/vlsiscr.sh /usr/bin/
+  653  vlsiscr.sh 
+  654  teamviewer &
+  655  vlsiscr.sh 
+  656  sudo /etc/X11/xorg.conf
+  657  sudo nano /etc/X11/xorg.conf
+  658  sudo apt install Caffeine 
+  659  sudo apt-get install xfce4-power-manager
+  660  vlsiscr.sh 
+  661  mtlb12 
+  662  vlsiscr.sh 
+  663  teamviewer 
+  664  mtlb12 
+  665  teamviewer
+  666  teamviewer &
+  667  vlsiscr.sh 
+  668  teamviewer 
+  669  mtlb12 
+  670  vlsiscr.sh 
+  671  teamviewer 
+  672  teamviewer &
+  673  teamviewer %
+  674  teamviewer 
+  675  reboot
+  676  sudo apt-get install python-qt4
+  677  sudo apt-get install hplip-cups
+  678  sudo apt-get install hplip
+  679  sudo hp-setup
+  680  sudo hp-setup --qt3
+  681  hp-setup -i -a  
+  682  sudo hp-setup
+  683  sudo hp-setup -i -a  
+  684  hp-check 
+  685  hp-info 
+  686  hp-config_usb_printer 
+  687  sudo hp-setup -i -a  
+  688  sudo pcmanfm 
+  689  ./hplip-3.17.7.run
+  690  mtlb12 
+  691  vlsiscr.sh 
+  692  teamviewer 
+  693  arp -a
+  694  arp 
+  695  vlsiscr.sh 
+  696  arp -a
+  697  mtlb12 
+  698  Xarchiver
+  699  sudo apt install Xarchiver
+  700  sudo apt et install Xarchiver
+  701  sudo apt install LXRandr
+  702  history
+  703  sudo apt-get install xarchiver
+  704  sudo apt-get install LXRandR
+  705  sudo apt-get install lxrandr
+  706  sudo apt-get install galculator
+  707  teamviewer 
+  708  history
+  709  lxrandr 
+  710  vlsiscr.sh 
+  711  mtlb12 
+  712  vlsiscr.sh 
+  713  mtlb12 
+  714  vlsiscr.sh 
+  715  xilink 
+  716  teamviewer 
+  717  ps2pdf -gui
+  718  ps2pdf-gui
+  719  ./asd.sh
+  720  zenity 
+  721  zenity  --help
+  722  `zenity --entry --title="Name File" --text="Name of output file" --entry-text="$PATHFILE.pdf"
+  723  `zenity --entry --title="Name File" --text="Name of output file" --entry-text="PATHFILE.pdf"
+  724  `zenity --entry --title="Name File" --text="Name of output file" 
+  725  zenity --entry --title="Name File" --text="Name of output file" 
+  726  zenity --file-selection --directory
+  727  zenity --file-selection --file-filter='PDF files (pdf) | *.pdf' 
+  728  firefox 
+  729  zenity --file-selection --title "PS2PDF GUI"
+  730  zenity --file-selection --title "PS2PDF GUI" --directory
+  731  ./asd1.sh 
+  732  teamviewer 
+  733  teamviewer 
+  734  ./asd1.sh 
+  735  mtlb12 
+  736  history
+  737  history > hist.txt
+  738  sudo apt-get install debian-unofficial-archive-keyring
+  739  sudo nano /etc/apt/sources.list
+  740  sudo apt-get install debian-unofficial-archive-keyring
+  741  sudo nano /etc/apt/sources.list
+  742  sudo apt-get update
+  743  sudo apt-get install debian-unofficial-archive-keyring
+  744  sudo apt-get install debian-archive-keyring
+  745  sudo apt-get install live-helper
+  746  sudo echo "deb http://live.debian.net/ squeeze-snapshots main contrib non-free" >> /etc/apt/sources.list
+  747  sudo echo "deb http://live.debian.net/squeeze-snapshots main contrib non-free" >> /etc/apt/sources.list
+  748  sudo nano /etc/apt/sources.list
+  749  sudo apt-get update
+  750  wget http://live.debian.net/debian/project/keys/archive-key.asc -O - | apt-key add -
+  751  sudo wget http://live.debian.net/debian/project/keys/archive-key.asc -O - | apt-key add -
+  752  sudo apt-get install live-build  live-helper  live-manual live-config
+  753  sudo apt-get install debian-unofficial-archive-keyring
+  754  sudo apt-get install live-helper
+  755  apt-get install debian-archive-keyring 
+  756  sudo apt-get install debian-archive-keyring 
+  757  sudo apt-get install debian-keyring
+  758  sudo apt-get install debian-archive-keyring
+  759  sudo apt-get install live-helper
+  760  sudo su
+  761  sudo nano /etc/apt/sources.list
+  762  sudo apt-get update
+  763  sudo nano /etc/apt/sources.list
+  764  sudo apt-get update
+  765  sudo apt-get install live-helper
+  766  history
+  767  cd ./Downloads/
+  768  sudo dpkg -i install ./live-magic_1.7_all.deb 
+  769  sudo apt-get install live-helper
+  770  sudo dpkg -i install ./live-helper_2.0.12-2_all.deb 
+  771  sudo dpkg -i install ./live-build_2.0.12-2_all.deb 
+  772  cd ~
+  773  sudo apt-get install debootstrap
+  774  sudo apt-get -f install debootstrap
+  775  sudo apt-get -f install 
+  776  sudo apt-get install syslinux
+  777  sudo apt-get install isolinux
+  778  sudo apt-get install squashfs-tools     genisoimage     memtest86+     rsync
+  779  lh_config
+  780  cd ./Downloads/
+  781  sudo dpkg -i install ./live-build_2.0.12-2_all.deb 
+  782  sudo dpkg -i install ./live-helper_2.0.12-2_all.deb 
+  783  cd ~
+  784  mkdir $HOME/live_boot
+  785  sudo debootstrap     --arch=i386     --variant=minbase     stretch $HOME/live_boot/chroot     http://ftp.us.debian.org/debian/
+  786  sudo chroot $HOME/live_boot/chroot
+  787  pwd
+  788  mkdir -p $HOME/live_boot/image/{live,isolinux}
+  789  (cd $HOME/live_boot &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  790  (cd $HOME/live_boot &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+  791  leafpad $HOME/live_boot/image/isolinux/isolinux.cfg
+  792  (cd $HOME/live_boot/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+  793  genisoimage     -rational-rock     -volid "Debian Live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/live_boot/debian-live.iso     $HOME/live_boot/image
+  794  teamviewer 
+  795  sudo pcmanfm 
+  796  (cd $HOME/live_boot &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  797  (cd $HOME/live_boot &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+  798  genisoimage     -rational-rock     -volid "Debian Live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/live_boot/debian-live.iso     $HOME/live_boot/image
+  799  samba --version
+  800  which samba
+  801  smbstatus
+  802  sudo pcmanfm 
+  803  smbclient -L
+  804  smbclient -L vlsi
+  805  sudo apt install smbclient
+  806  apt-get -f install
+  807  sudo apt-get -f install
+  808  sudo apt install smbclient
+  809  smbclient -L vlsi
+  810  smbclient -L vlsilab
+  811  udo cp /etc/samba/smb.conf /etc/samba/smb.conf.orig
+  812  sudo cp /etc/samba/smb.conf /etc/samba/smb.conf.orig
+  813  sudo leafpad /etc/samba/smb.conf 
+  814  testparm
+  815  sudo systemctl restart smbd   [Systemd]
+  816  sudo service smbd restart     [Sys V]
+  817  sudo chmod -R 0775 /home/vlsi/Downloads/
+  818  sudo chown -R nobody:nogroup /home/vlsi/Downloads/
+  819  sudo systemctl restart smbd   [Systemd]
+  820  sudo service smbd restart     [Sys V]
+  821  sudo mkdir -p /pcshare
+  822  sudo chmod -R 0775 /pcshare/
+  823  sudo chown -R nobody:nogroup /pcshare/
+  824  sudo leafpad /etc/samba/smb.conf 
+  825  sudo cp /etc/samba/smb.conf.orig /etc/samba/smb.conf
+  826  sudo leafpad /etc/samba/smb.conf 
+  827  testparm 
+  828  ssh
+  829  ssh 192.168.2.3
+  830  apt-get install --no-install-recommends --yes --force-yes     network-manager net-tools wireless-tools wpagui     tcpdump wget openssh-client     blackbox xserver-xorg-core xserver-xorg xinit xterm     pciutils usbutils gparted ntfs-3g hfsprogs rsync dosfstools     syslinux partclone nano pv \
+  831  apt-get install --no-install-recommends --yes --force-yes     network-manager net-tools wireless-tools wpagui     tcpdump wget openssh-client     blackbox xserver-xorg-core xserver-xorg xinit xterm     pciutils usbutils gparted ntfs-3g hfsprogs rsync dosfstools     syslinux partclone nano pv \
+  832  apt-get download --no-install-recommends --yes --force-yes     network-manager net-tools wireless-tools wpagui     tcpdump wget openssh-client     blackbox xserver-xorg-core xserver-xorg xinit xterm     pciutils usbutils gparted ntfs-3g hfsprogs rsync dosfstools     syslinux partclone nano pv     rtorrent iceweasel chntpw && \
+  833  apt-get download     network-manager net-tools wireless-tools wpagui     tcpdump wget openssh-client     blackbox xserver-xorg-core xserver-xorg xinit xterm     pciutils usbutils gparted ntfs-3g hfsprogs rsync dosfstools     syslinux partclone nano pv     rtorrent iceweasel chntpw 
+  834  apt-get download     network-manager net-tools wireless-tools wpagui     tcpdump wget openssh-client     blackbox xserver-xorg-core xserver-xorg xinit xterm     pciutils usbutils gparted ntfs-3g hfsprogs rsync dosfstools     syslinux partclone nano pv     rtorrent chntpw 
+  835  apt-get download firefox
+  836  teamviewer 
+  837  apt-get download xfce4-power-manager  galculator lxrandr xarchiver
+  838  sudo chroot $HOME/live_boot/chroot
+  839  mkdir -p $HOME/live_boot/image/{live,isolinux}
+  840  (cd $HOME/live_boot &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  841  (cd $HOME/live_boot &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+  842  leafpad $HOME/live_boot/image/isolinux/isolinux.cfg
+  843  (cd $HOME/live_boot/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+  844  genisoimage     -rational-rock     -volid "Debian Live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/live_boot/debian-live.iso \
+  845  genisoimage     -rational-rock     -volid "Debian Live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/live_boot/vlsilab-os-live.iso     $HOME/live_boot/image
+  846  cd ~
+  847  cd ./live_boot
+  848  ls
+  849  cp ./vlsilab-os-live.iso /pcshare/
+  850  history 
+  851  mkdir $HOME/live_boot
+  852  sudo debootstrap     --arch=i386     --variant=minbase     stretch $HOME/live_boot/chroot     http://ftp.us.debian.org/debian/
+  853  sudo pcmanfm 
+  854  exit
+  855  history > hist.txt 
+  856  sudo pcmanfm 
+  857  sudo chroot $HOME/live_boot/chroot
+  858  mkdir -p $HOME/live_boot/image/{live,isolinux}
+  859  (cd $HOME/live_boot &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  860  (cd $HOME/live_boot &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+  861  leafpad $HOME/live_boot/image/isolinux/isolinux.cfg
+  862  (cd $HOME/live_boot/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+  863  genisoimage     -rational-rock     -volid "vlsilab os Live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/live_boot/vlsilab-os-live.iso     $HOME/live_boot/image
+  864  teamviewer 
+  865  (cd $HOME/live_boot &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+  866  (cd $HOME/live_boot/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+  867  leafpad $HOME/live_boot/image/isolinux/isolinux.cfg
+  868  (cd $HOME/live_boot/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+  869  genisoimage     -rational-rock     -volid "Debian Live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/live_boot/debian-live.iso     $HOME/live_boot/image
+  870  (cd $HOME/live_boot &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  871  (cd $HOME/live_boot &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  872  (cd $HOME/live_boot &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  873  (cd $HOME/live_boot &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+  874  (cd $HOME/live_boot/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+  875  genisoimage     -rational-rock     -volid "Debian Live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/live_boot/debian-live.iso     $HOME/live_boot/image
+  876  teamviewer 
+  877  sudo chroot $HOME/live_boot/chroot
+  878  sudo pcmanfm 
+  879  histroy
+  880  history
+  881  ./osscr.sh 
+  882  mkdir -p $HOME/live_boot/chroot/var/cache/apt/fornewos
+  883  sudo mkdir -p $HOME/live_boot/chroot/var/cache/apt/fornewos
+  884  sudo cp /$HOME/Documents/fornewos/* /$HOME/live_boot/chroot/var/cache/apt/fornewos/
+  885  sudo chroot $HOME/live_boot/chroot
+  886  sudo cp $HOME/Documents/fornewos/* $HOME/live_boot/chroot/var/cache/apt/fornewos/
+  887  sudo chroot $HOME/live_boot/chroot
+  888  mkdir -p $HOME/live_boot/image/{live,isolinux}
+  889  (cd $HOME/live_boot &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  890  (cd $HOME/live_boot &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+  891  cp $HOME/isolinux.cfg $HOME/live_boot/image/isolinux/isolinux.cfg
+  892  (cd $HOME/live_boot/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+  893  genisoimage     -rational-rock     -volid "Debian Live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/live_boot/debian-live.iso     $HOME/live_boot/image
+  894  sudo pcmanfm 
+  895  /usr/sbin/pwunconv man
+  896  sudo chroot $HOME/live_boot/chroot
+  897  teamviewer 
+  898  sudo chroot $HOME/live_boot/chroot
+  899  (cd $HOME/live_boot &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  900  (cd $HOME/live_boot &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+  901  cd $HOME/live_boot/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest
+  902  )
+  903  (cd $HOME/live_boot/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+  904  genisoimage     -rational-rock     -volid "Debian Live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/live_boot/debian-live.iso     $HOME/live_boot/image
+  905  pcmanfm 
+  906  cd ~
+  907  sudo chroot $HOME/live_boot/chroot
+  908  (cd $HOME/live_boot &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  909  sudo chroot $HOME/live_boot/chroot
+  910  sudo cp ./Documents/wpprs/* ./live_boot/chroot/home/vlsi/wppr/
+  911  (cd $HOME/live_boot &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  912  (cd $HOME/live_boot &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+  913  (cd $HOME/live_boot/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+  914  genisoimage     -rational-rock     -volid "Debian Live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/live_boot/debian-live.iso     $HOME/live_boot/image
+  915  sudo pcmanfm 
+  916  sudo chroot $HOME/live_boot/chroot
+  917  (cd $HOME/live_boot &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  918  (cd $HOME/live_boot &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+  919  (cd $HOME/live_boot/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+  920  genisoimage     -rational-rock     -volid "Debian Live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/live_boot/debian-live.iso     $HOME/live_boot/image
+  921  sudo chroot $HOME/live_boot/chroot
+  922  sudo cp -R ./.config/lxpanel/* /home/vlsi/live_boot/chroot/home/
+  923  sudo chroot $HOME/live_boot/chroot
+  924  (cd $HOME/live_boot &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  925  sudo chroot $HOME/live_boot/chroot
+  926  (cd $HOME/live_boot &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  927  (cd $HOME/live_boot &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+  928  (cd $HOME/live_boot/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+  929  genisoimage     -rational-rock     -volid "Debian Live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/live_boot/debian-live.iso     $HOME/live_boot/image
+  930  teamviewer 
+  931  sudo pcmanfm 
+  932  apt download xfce4-power-manager
+  933  sudo nano /etc/apt/sources.list
+  934  apt download vlc
+  935  apt-get download firefox-esr
+  936  apt-get download firefox
+  937  apt-get download vlc browser-plugin-vlc
+  938  apt-get download libavcodec-extra-53
+  939  apt-get download teamviewer 
+  940  apt-get download teamviewer_12.0.76279_i386.deb 
+  941  apt-get download indicator-applet-complete
+  942  apt-get download adobereader-enu
+  943  cd ~
+  944  sudo chroot $HOME/live_boot/chroot
+  945  (cd $HOME/live_boot &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  946  (cd $HOME/live_boot &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+  947  (cd $HOME/live_boot/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+  948  genisoimage     -rational-rock     -volid "Debian Live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/live_boot/debian-live.iso     $HOME/live_boot/image
+  949  sudo pcmanfm 
+  950  sudo chroot $HOME/live_boot/chroot
+  951  (cd $HOME/live_boot &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  952  (cd $HOME/live_boot &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+  953  (cd $HOME/live_boot &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  954  (cd $HOME/live_boot &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+  955  (cd $HOME/live_boot/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+  956  genisoimage     -rational-rock     -volid "Debian Live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/live_boot/debian-live.iso     $HOME/live_boot/image
+  957  tar -cvf /home/vlsi/live_boot/
+  958  tar -cvf lilios.tar /home/vlsi/live_boot/
+  959  exit
+  960  sudo tar -cvf lili.tar /home/vlsi/live_boot/
+  961  teamviewer 
+  962  sudo pcmanfm 
+  963  sudo chroot $HOME/live_boot/chroot
+  964  (cd $HOME/live_boot &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  965  (cd $HOME/live_boot &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+  966  (cd $HOME/live_boot/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+  967  genisoimage     -rational-rock     -volid "Debian Live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/live_boot/debian-live.iso     $HOME/live_boot/image
+  968  sudo chroot $HOME/live_boot/chroot
+  969  sudo pcmanfm 
+  970  sudo pcmanfm 
+  971  sudo chroot $HOME/nos/chroot
+  972  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  973  (cd $HOME/nos/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+  974  genisoimage     -rational-rock     -volid "nos"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/nos/nos.iso     $HOME/nos/image
+  975  sudo chroot $HOME/nos/chroot
+  976  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  977  (cd $HOME/nos &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1
+  978  (cd $HOME/nos/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+  979  genisoimage     -rational-rock     -volid "nos"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/nos/nos.iso     $HOME/nos/image
+  980  sudo nano /etc/default/grub 
+  981  sudo chroot $HOME/nos/chroot
+  982  (cd $HOME/nos &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+  983  (cd $HOME/nos/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+  984  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/nos/nos.iso     $HOME/nos/image
+  985  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  986  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/nos/nos.iso     $HOME/nos/image
+  987  sudo chroot $HOME/nos/chroot
+  988  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  989  (cd $HOME/nos &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+  990  (cd $HOME/nos/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+  991  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/nos/nos.iso     $HOME/nos/image
+  992  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  993  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+  994  sudo chroot $HOME/nos/chroot
+  995  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+  996  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+  997  sudo chroot $HOME/nos/chroot
+  998  exit
+  999  sudo pcmanfm 
+ 1000  sudo chroot $HOME/nos/chroot
+ 1001  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1002  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1003  sudo chroot $HOME/nos/chroot
+ 1004  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1005  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1006  sudo chroot $HOME/nos/chroot
+ 1007  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1008  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1009  sudo apt-get vm
+ 1010  sudo apt-get install vm
+ 1011  vm
+ 1012  sudo chroot $HOME/nos/chroot
+ 1013  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1014  (cd $HOME/nos &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+ 1015  (cd $HOME/nos/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+ 1016  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1017  cd ~
+ 1018  mkdir -p $HOME/nos1
+ 1019  sudo debootstrap     --arch=i386     --variant=buildd     xenial $HOME/nos1/chroot    http://archive.ubuntu.com/ubuntu/
+ 1020  cd ~
+ 1021  mkdir -p $HOME/nos1
+ 1022  sudo debootstrap     --arch=i386     --variant=buildd     xenial $HOME/nos1/chroot    http://archive.ubuntu.com/ubuntu/
+ 1023  sudo chroot $HOME/nos1/chroot
+ 1024  sudo pcmanfm 
+ 1025  sudo chroot $HOME/nos/chroot
+ 1026  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1027  (cd $HOME/nos &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+ 1028  (cd $HOME/nos/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+ 1029  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1030  apt install ./virtualbox-5.1_5.1.28-117968~Ubuntu~xenial_i386.deb 
+ 1031  sudo apt install ./virtualbox-5.1_5.1.28-117968~Ubuntu~xenial_i386.deb 
+ 1032  virtualbox 
+ 1033  sudo chroot $HOME/nos/chroot
+ 1034  (cd $HOME/nos &&     cp chroot/boot/vmlinuz-4.4.0-21-generic image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.4.0-21-generic image/live/initrd1; )
+ 1035  cd ..
+ 1036  (cd $HOME/nos &&     cp chroot/boot/vmlinuz-4.4.0-21-generic image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.4.0-21-generic image/live/initrd1; )
+ 1037  exit
+ 1038  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1039  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1040  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1041  virtualbox 
+ 1042  (cd $HOME/nos &&     cp chroot/boot/vmlinuz-4.4.0-21-generic image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.4.0-21-generic image/live/initrd1; )
+ 1043  (cd $HOME/nos/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+ 1044  sudo pcmanfm 
+ 1045  tar -cvf nosok.tar ./nos/
+ 1046  sudo chroot $HOME/nos/chroot
+ 1047  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1048  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1049  prefix
+ 1050  sudo chroot $HOME/nos/chroot
+ 1051  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1052  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1053  /home/vlsi/asd.sh 
+ 1054  cp /home/vlsi/asd.sh ./
+ 1055  ./asd.sh 
+ 1056  /home/vlsi/asd1.sh 
+ 1057  cp /home/vlsi/asd.sh ./
+ 1058  /home/vlsi/asd1.sh 
+ 1059  teamviwere
+ 1060  teamviewer 
+ 1061  vlsiscr.sh 
+ 1062  sudo pcmanfm 
+ 1063  sudo chroot $HOME/nos/chroot
+ 1064  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1065  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1066  open TUX  PAINT
+ 1067  OPEN GK
+ 1068  TUX paint
+ 1069  tux game
+ 1070  clc
+ 1071  sudo chroot $HOME/nos/chroot
+ 1072  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1073  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1074  sudo chroot $HOME/nos/chroot
+ 1075  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1076  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1077  shutdown now
+ 1078  sudo pcmanfm 
+ 1079  vlsiscr.sh 
+ 1080  sudo chroot $HOME/nos/chroot
+ 1081  pcmanfm 
+ 1082  sudo chroot $HOME/nos/chroot
+ 1083  teamviewer 
+ 1084  sudo pcmanfm 
+ 1085  sudo chroot $HOME/nos/chroot
+ 1086  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1087  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1088  sudo chroot $HOME/nos/chroot
+ 1089  teamviewer 
+ 1090  sudo ln /dev/fd /home/vlsi/nos/chroot/dev/fd
+ 1091  sudo ln /proc/self/ /home/vlsi/nos/chroot/dev/fd/
+ 1092  sudo ln -s /proc/self/ /home/vlsi/nos/chroot/dev/fd/
+ 1093  sudo ln -s /proc/self/fd /home/vlsi/nos/chroot/dev/fd/
+ 1094  sudo ln -s /proc/self/fd /home/vlsi/nos/chroot/dev/
+ 1095  sudo chroot $HOME/nos/chroot
+ 1096  unlink /home/vlsi/nos/chroot/dev/fd
+ 1097  sudo chroot $HOME/nos/chroot
+ 1098  sudo -t proc none $HOME/nos/chroot/proc
+ 1099  sudo -t proc  $HOME/nos/chroot/proc
+ 1100  mount -t proc none $HOME/nos/chroot/proc
+ 1101  sudo mount -t proc none $HOME/nos/chroot/proc
+ 1102  sudo chroot $HOME/nos/chroot
+ 1103  sudo apt-add-repository ppa:cubic-wizard/release
+ 1104  sudo apt-get update
+ 1105  sudo apt-get install cubic
+ 1106  sudo pcmanfm 
+ 1107  cat > ab.txt <<EOL
+ 1108  Hi
+ 1109  abcd
+ 1110  EOL
+ 1111  apt-cache search linux-image
+ 1112  mkdir -p $HOME/nos
+ 1113  sudo chroot $HOME/nos/chroot
+ 1114  sudo debootstrap     --arch=i386     --variant=buildd     xenial $HOME/nos/chroot    http://archive.ubuntu.com/ubuntu/
+ 1115  sudo chroot $HOME/nos/chroot
+ 1116  mkdir -p $HOME/nos
+ 1117  sudo debootstrap     --arch=i386     --variant=buildd     xenial $HOME/nos/chroot    http://archive.ubuntu.com/ubuntu/
+ 1118  apt-cache search linux-image
+ 1119  apt-cache search ubuntu-minimal
+ 1120  sudo pcmanfm 
+ 1121  apt-cache search ubuntu-minimal
+ 1122  sudo chroot $HOME/nos/chroot
+ 1123  sudo debootstrap     --arch=i386     --variant=buildd     xenial $HOME/nos/chroot    http://archive.ubuntu.com/ubuntu/
+ 1124  sudo chroot $HOME/nos/chroot
+ 1125  (cd $HOME/nos &&     cp chroot/boot/vmlinuz-4.4.0-21-generic image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.4.0-21-generic image/live/initrd1; )
+ 1126  sudo pcmanfm 
+ 1127  mkdir -p $HOME/nos/image/{live,isolinux}
+ 1128  cp $HOME/isolinux.cfg $HOME/nos/image/isolinux/isolinux.cfg
+ 1129  sudo chroot $HOME/nos/chroot
+ 1130  cd ~
+ 1131  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1132  (cd $HOME/nos &&     cp chroot/boot/vmlinuz-4.4.0-21-generic image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.4.0-21-generic image/live/initrd1; )
+ 1133  (cd $HOME/nos/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+ 1134  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos1.iso     $HOME/nos/image
+ 1135  virtualbox 
+ 1136  (cd $HOME/nos &&     cp chroot/boot/vmlinuz-4.4.0-21-generic image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.4.0-21-generic image/live/initrd1; )
+ 1137  su
+ 1138  sudo pcmanfm 
+ 1139  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1140  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos1.iso     $HOME/nos/image
+ 1141  virtualbox 
+ 1142  sudo chroot $HOME/nos/chroot
+ 1143  (cd $HOME/nos &&     cp chroot/boot/vmlinuz-4.4.0-21-generic image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.4.0-21-generic image/live/initrd1; )
+ 1144  sudo (cd $HOME/nos && \
+ 1145  cd $HOME/nos
+ 1146  pwd
+ 1147  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1148  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos1.iso     $HOME/nos/image
+ 1149  virtualbox 
+ 1150  sudo pcmanfm 
+ 1151  vlsiscr.sh 
+ 1152  matlab
+ 1153  mkdir $HOME/nos
+ 1154  sudo debootstrap     --arch=i386     --variant=minbase     stretch $HOME/nos/chroot     http://ftp.us.debian.org/debian/
+ 1155  sudo chroot $HOME/nos/chroot
+ 1156  mkdir -p $HOME/nos/image/{live,isolinux}
+ 1157  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1158  (cd $HOME/nos &&     cp chroot/boot/vmlinuz-4.9.0-3-686 image/live/vmlinuz1;     cp chroot/boot/initrd.img-4.9.0-3-686 image/live/initrd1; )
+ 1159  cp $HOME/isolinux.cfg $HOME/nos/image/isolinux/isolinux.cfg
+ 1160  (cd $HOME/nos/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+ 1161  genisoimage     -rational-rock     -volid "Debian Live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output $HOME/nos/oslive.iso \
+ 1162  genisoimage     -rational-rock     -volid "Debian Live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/oslive.iso     $HOME/nos/image
+ 1163  virtualbox 
+ 1164  sudo chroot $HOME/nos/chroot
+ 1165  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1166  genisoimage     -rational-rock     -volid "Debian Live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/oslive.iso     $HOME/nos/image
+ 1167  virtualbox 
+ 1168  sudo pcmanfm 
+ 1169  virtualbox 
+ 1170  sudo pcmanfm 
+ 1171  sudo chroot $HOME/nos/chroot
+ 1172  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1173  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1174  sudo chroot $HOME/nos/chroot
+ 1175  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1176  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos3.iso     $HOME/nos/image
+ 1177  virtualbox
+ 1178  sudo chroot $HOME/nos/chroot
+ 1179  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1180  (cd $HOME/nos/image/ &&     cp /usr/lib/ISOLINUX/isolinux.bin isolinux/ &&     cp /usr/lib/syslinux/modules/bios/menu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/hdt.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/ldlinux.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libutil.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libmenu.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libcom32.c32 isolinux/ &&     cp /usr/lib/syslinux/modules/bios/libgpl.c32 isolinux/ &&     cp /usr/share/misc/pci.ids isolinux/ &&     cp /boot/memtest86+.bin live/memtest; )
+ 1181  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1182  virtualbox
+ 1183  sudo pcmanfm 
+ 1184  sudo chroot $HOME/nos/chroot
+ 1185  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1186  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nosq/image
+ 1187  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1188  virtualbox
+ 1189  sudo chroot $HOME/nos/chroot
+ 1190  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1191  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1192  virtualbox
+ 1193  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1194  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nos.iso     $HOME/nos/image
+ 1195  virtualbox
+ 1196  teamviewer 
+ 1197  sudo pcmanfm 
+ 1198  sudo chroot $HOME/nos/chroot
+ 1199  (cd $HOME/nos &&     sudo mksquashfs chroot image/live/filesystem.squashfs -e boot; )
+ 1200  genisoimage     -rational-rock     -volid "os-live"     -cache-inodes     -joliet     -hfs     -full-iso9660-filenames     -b isolinux/isolinux.bin     -c isolinux/boot.cat     -no-emul-boot     -boot-load-size 4     -boot-info-table     -output /pcshare/nosqt.iso     $HOME/nos/image
+ 1201  virtualbox
+ 1202  history > hist1.txt 
